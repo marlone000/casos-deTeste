@@ -1,0 +1,11 @@
+{
+  "name": "casos-deteste",
+  "version": "1.0.0",
+  "description": "exemplos de testes",
+  "main": "operacoes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marlon",
+  "license": "MIT"
+}
