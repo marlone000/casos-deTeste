@@ -1,14 +1,17 @@
 {
-  "name": "casos-deteste",
+  "name": "teste",
   "version": "1.0.0",
-  "description": "exemplos de testes",
-  "main": "operacoes.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "Marlon",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "description": ""
 }
